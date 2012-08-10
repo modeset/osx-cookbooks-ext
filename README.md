@@ -12,8 +12,8 @@ To use with home_cookin you can create a dna.json file that looks similar to the
           "homesick": {"repos": ["git://github.com/gvarela/dot_files.git"]},
           "basic_brew": {"formulae": ["bash-completion"]},
 
-          "cookbooks": ["https://github.com/gvarela/osx-cookbooks/tarball/master",
-                        "https://github.com/gvarela/osx-cookbooks-ext/tarball/master"],
+          "cookbooks": ["https://github.com/modeset/osx-cookbooks/tarball/master",
+                        "https://github.com/modeset/osx-cookbooks-ext/tarball/master"],
           "recipes": [
                       "homebrew",
                       "git",
