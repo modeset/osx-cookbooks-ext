@@ -9,6 +9,7 @@ package "hub"
 package "tmux"
 package "reattach-to-user-namespace"
 package "mobile-shell"
+package "wemux"
 
 npm_package "coffee-script"
 npm_package "jshint"
