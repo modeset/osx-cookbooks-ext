@@ -1,6 +1,6 @@
 if node[:platform] =~ /mac_os_x/
   application 'Firefox' do
-    source 'http://mirror.7he.at/pub/mozilla/firefox/releases/13.0.1/mac/en-US/Firefox%2013.0.1.dmg'
+    source 'http://www.mozilla.org/en-US/products/download.html?product=firefox-14.0.1&os=osx&lang=en-US'
   end
 end
 
