@@ -1,5 +1,5 @@
 application 'ShiftIt' do
-  source 'https://github.com/downloads/fikovnik/ShiftIt/ShiftIt-1.5.zip'
+  source 'http://cloud.github.com/downloads/fikovnik/ShiftIt/ShiftIt-1.5.zip'
 end
 
 execute "Start ShiftIt on login" do
