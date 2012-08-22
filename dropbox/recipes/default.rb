@@ -1,3 +1,3 @@
 application 'Dropbox' do
-  source 'https://ddr3luum8vl5r.cloudfront.net/Dropbox%201.4.12.dmg'
+  source 'http://ddr3luum8vl5r.cloudfront.net/Dropbox 1.4.12.dmg'
 end
