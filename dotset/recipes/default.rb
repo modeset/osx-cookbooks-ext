@@ -10,6 +10,7 @@ package "tmux"
 package "reattach-to-user-namespace"
 package "mobile-shell"
 package "wemux"
+package "the_silver_searcher"
 
 npm_package "coffee-script"
 npm_package "jshint"
